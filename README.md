@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hey 👋
 
+I am Max and I study Information Systems Management at TU Berlin! 
 <!--
 **maxrankl/maxrankl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
